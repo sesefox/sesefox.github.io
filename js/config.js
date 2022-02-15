@@ -4,7 +4,7 @@ var fabuye={
 		'link':'https://sesefox.github.io'
 		},
     'bitbucket发布页:': {
-		'link':'更新中'
+		'link':'正在添加中'
 		}	
 		
 };
