@@ -49,7 +49,7 @@ $('.reserve').append('<a class="p-s b_color_green" href="'+obj.link+'" target="_
 $.each(links,function(idx,obj){
 $('.list').append('<a class="p-m b_color_grey" href="'+obj.link+'" target="_blank"><span>'+idx+obj.link.replace(reg,"")+'</span></a>');
 });
-$('.list a').eq(0).addClass('b_color_red').removeClass('b_color_grey').append('<b class="p_color_g">●</b>');
+$('.list a').eq(0).addClass('b_color_red').removeClass('b_color_grey').prepend('<b class="p_color_g">●</b>');
 $.each(foot,function(idx,obj){
 $('.foot').append('<div class="p-s p_color_w">'+obj.txt+'</div>');
 });
