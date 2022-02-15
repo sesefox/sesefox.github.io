@@ -43,9 +43,6 @@
 </div>
 <script type="text/javascript">
 $(document).ready(function(){ 
-if(window.location.href.indexOf('sesefox') < 0) {
-window.location.href='https://www.baidu.com/';
-};
 var reg= /^http(s)?:\/\/(.*?)/i;
 $.each(fabuye,function(idx,obj){
 $('.reserve').append('<a class="p-s b_color_green" href="'+obj.link+'" target="_blank"><span>'+idx+obj.link.replace(reg,"")+'</span></a>');
