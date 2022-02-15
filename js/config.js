@@ -4,7 +4,7 @@ var fabuye={
 		'link':'https://sesefox.github.io'
 		},
     'bitbucket发布页:': {
-		'link':'https://sexfox.xyz'
+		'link':'更新中'
 		}	
 		
 };
