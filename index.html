@@ -95,8 +95,7 @@ switch(Math.floor((Math.random() * 3) + 1)) {
      case 3:
         setcolass = 'animation3';
         break;
-} 
-console.log(Math.floor((Math.random() * 3) + 1));
+};
 var listnum= $('.swiper-slide').length;
 if (num > listnum-2){num=-1};
 setTimeout(function(){ $('.swiper-slide').eq(num-2).removeClass('animation1 animation2 animation3'); }, 1000);
