@@ -4,8 +4,8 @@ var fabuye={
     'github发布页:': {
 		'link':'https://sesefox.github.io'
 		},
-    'bitbucket发布页:': {
-		'link':'正在制作中！'
+    'cloudflare发布页:': {
+		'link':'https://sesefox-fabuye.pages.dev'
 		}	
 		
 };
@@ -36,34 +36,3 @@ var pcimg=8;
 var wapimg=13;
 //下方临时文件
 var temp='请写邮件至<a class="youjian" href="quisade59@gmail.com" target="_blank">quisade59@gmail.com</a>即可获取最新消息';
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
