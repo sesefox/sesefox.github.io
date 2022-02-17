@@ -4,8 +4,8 @@ var fabuye={
     'github发布页:': {
 		'link':'https://sesefox.github.io'
 		},
-    'bitbucket发布页:': {
-		'link':'正在制作中！'
+    'cloudflare发布页:': {
+		'link':'cloudflare'
 		}	
 		
 };
