@@ -5,7 +5,7 @@ var fabuye={
 		'link':'https://sesefox.github.io'
 		},
     'cloudflare发布页:': {
-		'link':'cloudflare'
+		'link':'https://sesefox-fabuye.pages.dev'
 		}	
 		
 };
